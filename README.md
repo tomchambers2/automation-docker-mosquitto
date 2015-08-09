@@ -1,7 +1,7 @@
 docker-mosquitto
 ================
 
-Docker image for mosquitto
+Docker image for mosquitto on a raspberry pi. Tested using hypriot OS
 
 ## Run
 
